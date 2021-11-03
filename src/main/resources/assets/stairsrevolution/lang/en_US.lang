@@ -1,0 +1,13 @@
+# blocks
+tile.StoneQuarterBlock.name=Stone Quarter Block
+tile.StoneOctantBlock.name=Stone Octant Block
+tile.StoneVerticalSlab.name=Stone Vertical Slab
+
+# items
+item.StoneCarvingTool.name=Stone Carving Tool
+item.IronCarvingTool.name=Iron Carving Tool
+item.GoldCarvingTool.name=Gold Carving Tool
+item.DiamondCarvingTool.name=Diamond Carving Tool
+
+# creative tab
+itemGroup.StairsRevolution=Stairs Revolution

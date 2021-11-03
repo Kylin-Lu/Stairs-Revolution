@@ -1,0 +1,13 @@
+# blocks
+tile.StoneQuarterBlock.name=四分之一个石头
+tile.StoneOctantBlock.name=八分之一个石头
+tile.StoneVerticalSlab.name=石制垂直台阶
+
+# items
+item.StoneCarvingTool.name=石制雕刻刀
+item.IronCarvingTool.name=铁制雕刻刀
+item.GoldCarvingTool.name=金制雕刻刀
+item.DiamondCarvingTool.name=钻石雕刻刀
+
+# creative tab
+itemGroup.StairsRevolution=阶梯革命

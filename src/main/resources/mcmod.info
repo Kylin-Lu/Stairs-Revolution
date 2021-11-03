@@ -1,0 +1,16 @@
+[
+{
+  "modid": "StairsRevolution",
+  "name": "Stairs Revolution",
+  "description": "An extension mod for the architect to make their life easier.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kylin_Lu"],
+  "credits": "The Forge and FML guys, also the Tutorial writers, for making this mod possible.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [mod_MinecraftForge]
+}
+]
